@@ -11,21 +11,21 @@
      alt="Profile Image"
      width="320"/>
 
-- 🌱 **Software Engineering Student** | Currently building and developing Myself <br>
+- 🎓 **Software Engineering Student** | Passionate about building and learning <br>
 
-- 🐍 **Learning Python & Godot:** Building a 2D indie game <br>
+- 🐧 **OS:** Linux User <br>
 
-- 📽️ **YouTube Creator:** Making study & organization videos (No-face / Silent Vlogs) <br>
+- 🐍 **Learning:** Python & Godot Engine (Building a 2D Game) <br>
+
+- 📽️ **YouTube Creator:** Making Study & Organization Videos (No-Face / Silent Vlogs, No Music) <br>
 
 - ⚡ About Me: **Determined** <br>
 
 - 💎 Value **clarity, ownership, and continuous improvement** <br>
 
-- 📈 Skills: **Python, Godot (2D), Java, SQL, OOP, Git & GitHub**
+- 📈 Skills: **Python, Godot (2D), SQL, OOP, Git & GitHub, Linux**
 
 - 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
-
-- 📍 **Location:** India <br>
 
 <br>
 <br>
@@ -122,6 +122,17 @@
 </td>
 </tr>
 </table>
+
+<!-- إحصائيات الـ cmatrix المميزة للينكس -->
+<br>
+<table width="100%" align="center">
+<tr>
+<td align="center">
+  <img src="https://raw.githubusercontent.com/Mastansayyad/Mastansayyad/main/cmatrix.gif" alt="Cmatrix" width="100%"/>
+  <!-- ملاحظة: إذا لم يظهر هذا الـ gif تلقائياً لأن رابط الـ cmatrix غير مرفوع عندك بعد، يمكنك استبداله بأي رابط سكرينشوت أو gif لـ cmatrix في مستودعك -->
+</td>
+</tr>
+</table>
 <br>
 
 <p align="center">
@@ -132,7 +143,7 @@
   <a href="https://buymeacoffee.com/sayyadmast3" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
     <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/>
   </a>
-  <!-- صورة بيمو (BMO) من وقت المغامرة كما طلبت بدون تغيير -->
+  <!-- صورة بيمو (BMO) من وقت المغامره -->
   <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
 </p>
 
