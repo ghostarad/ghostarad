@@ -34,27 +34,6 @@
 
 <br>
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=radical" alt="Profile Summary">
-</td>
-</tr>
-</table>
-
-<table width="100%" align="center">
-<tr>
-<td>
-    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MastanSayyad?cardType=level&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-<img width="400em" height="676" alt="Screenshot 2026-03-22 015306" src="https://github.com/user-attachments/assets/ea8898e5-e1a1-4080-82ff-a28bf3253683" />
-</td>
-</tr>
-</table>
-
-<br>
-
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
