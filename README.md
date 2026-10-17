@@ -4,7 +4,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- العمود الأيسر: المعلومات الشخصية -->
+    <!-- العمود الأيسر: المعلومات الشخصية والاهتمامات -->
     <td valign="top" width="65%">
       <h1 align="left">
         Hi there, I'm Software Engineering Student
@@ -24,28 +24,23 @@
       </ul>
     </td>
 
-    <!-- العمود الأيمن: الشعارات والأيقونات المتحركة -->
+    <!-- العمود الأيمن: الشعارات والأيقونات الطولية -->
     <td valign="top" width="35%" align="center">
-      <div style="border: 2px solid transparent; border-image: linear-gradient(to bottom, #ff007f, #00f0ff, #00ff66, #ff00ff) 1; padding: 15px; border-radius: 10px;">
+      <div style="border: 2px solid #00f0ff; padding: 15px; border-radius: 12px; background-color: rgba(0,0,0,0.2);">
         
-        <!-- Arch Linux Logo -->
-        <img src="https://raw.githubusercontent.com/valeriangalliat/arch-dribbble/master/archlinux.gif" alt="Arch Linux" width="120" />
+        <!-- Arch Linux -->
+        <img src="https://raw.githubusercontent.com/valeriangalliat/arch-dribbble/master/archlinux.gif" alt="Arch Linux" width="100" />
         <p><b>Arch Linux User</b></p>
         <br>
 
-        <!-- Binary 1001101 Animation -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnE2Y3o0dW41bnV5eG04eTVsbXZxdGN5OHZsejhqZDV5enQxZ2k2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="1001101" width="120" />
+        <!-- Binary 1001101 -->
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="1001101" width="100" />
         <p><b>1001101</b></p>
         <br>
 
-        <!-- PlayStation 1 Glowing Symbols -->
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpuc2cxcndxMmxuMThpczNiaGhzdzAzeThzZGpxbnpmeHptZ2p2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPa2TdahY8LAAxy/giphy.gif" alt="PS1 Symbols" width="100" />
-        <p><b>PlayStation 1 Fan</b></p>
-        <br>
-
-        <!-- Sakhr Computer Logo -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/ thumb/8/82/Sakhr_logo.svg/320px-Sakhr_logo.svg.png" alt="Sakhr Computer" width="130" />
-        <p><b>كمبيوتر صحر (Sakhr Computer)</b></p>
+        <!-- Sakhr Computer -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sakhr_logo.svg/320px-Sakhr_logo.svg.png" alt="Sakhr Computer" width="110" />
+        <p><b>كمبيوتر صخر (Sakhr Computer)</b></p>
 
       </div>
     </td>
