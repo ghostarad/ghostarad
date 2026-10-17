@@ -4,7 +4,6 @@
 
 ![Mastan _page-0001](https://github.com/user-attachments/assets/8e2dc625-ca3b-4fb0-a73f-7aa7de5a5283)
 
-
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Mastan Sayyad</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
 <img align="right" hspace="30"
@@ -12,13 +11,21 @@
      alt="Profile Image"
      width="320"/>
 
-- 🌱 **Currently building and developing Myself** <br>
-- ⚡ About Me: **Determined** <br>
-- 💎 Value **clarity, ownership, and continuous improvement** <br>
-- 📈 Skills: **Java, SQL, OOP, Git & GitHub**
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
-- 📍 **Location:** India <br>
+- 🌱 **Software Engineering Student** | Currently building and developing Myself <br>
 
+- 🐍 **Learning Python & Godot:** Building a 2D indie game <br>
+
+- 📽️ **YouTube Creator:** Making study & organization videos (No-face / Silent Vlogs) <br>
+
+- ⚡ About Me: **Determined** <br>
+
+- 💎 Value **clarity, ownership, and continuous improvement** <br>
+
+- 📈 Skills: **Python, Godot (2D), Java, SQL, OOP, Git & GitHub**
+
+- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+
+- 📍 **Location:** India <br>
 
 <br>
 <br>
@@ -37,16 +44,12 @@
   <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/7.png" width="85px" height="85px" />
 </div>
 
-
-
 #### **Bad News:**  
 > No matter how hard you try to protect yourself, one day, you will fail.
 
 ####  **Good News:**  
 > When you fail, each passing day,  
 > it opens you up to new possibilities, often helping you emerge as the best version of you.
-
-
 
 <br>
 
@@ -55,9 +58,7 @@
 <p align="center">
 <img width="800" height="426" alt="image" src="https://github.com/user-attachments/assets/84f37fe7-27c0-4cea-bc0d-414be000c746" />
 </p>
-
 </details>
-
 
 <details><summary>🚀 Open Source Contributions:</summary>
   <br>
@@ -118,7 +119,6 @@
 </td>
 <td>
 <img width="400em" height="676" alt="Screenshot 2026-03-22 015306" src="https://github.com/user-attachments/assets/ea8898e5-e1a1-4080-82ff-a28bf3253683" />
-
 </td>
 </tr>
 </table>
@@ -132,10 +132,9 @@
   <a href="https://buymeacoffee.com/sayyadmast3" target="_blank" style="display: inline-flex; align-items: center; gap: 10px; text-decoration: none;">
     <img height="40" alt="Buy Me A Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"/>
   </a>
+  <!-- صورة بيمو (BMO) من وقت المغامرة كما طلبت بدون تغيير -->
   <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
